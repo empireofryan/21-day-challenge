@@ -1,0 +1,115 @@
+[
+  {
+    "id": "nallens-irish-pub",
+    "name": "Nallen's Irish Pub",
+    "source": "https://www.milehighhappyhour.com/lower-downtown/nallens-irish-pub/ , https://pubcrawls.com/venues/denver/nallens-irish-pub/ , https://www.totalhappyhour.com/happy-hour-for-nallens-irish-pub-in-denver-co-80202/",
+    "crawl_note": "Official site nallensirishpub.com had SSL errors; nallenspubdenver.com also had SSL errors. Data gathered from aggregator sites.",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "start_time": "2:00 PM",
+    "end_time": "7:00 PM",
+    "food_deals": "none - no kitchen on premises",
+    "drink_deals": [
+      "$1 off all drinks",
+      "$3 Bud Light Drafts",
+      "$4 Carbombs"
+    ],
+    "notes": "Denver's oldest Irish pub, open since 1992. Located at 1429 Market St, Denver, CO 80202. Open daily 2:00 PM - 2:00 AM. No food served (no kitchen), but guests can bring their own. Some sources list happy hour ending at 8:00 PM rather than 7:00 PM - call (303) 572-0667 to confirm current times. Prices sourced from aggregator sites and may not reflect the latest changes."
+  },
+  {
+    "id": "star-bar-denver",
+    "name": "Star Bar Denver",
+    "source": "https://www.thestarbardenver.com , https://www.milehighhappyhour.com/five-points/star-bar/ , https://denver.thedrinknation.com/bars/profile/2318-Star-Bar , https://www.downtowndenverbars.com/five-points/star-bar.html",
+    "crawl_note": "Official site thestarbardenver.com returned limited content. Has a /drinkdeals page but it did not render deal specifics. Mile High Happy Hour states: 'Currently, we do not know any happy hours here.' Multiple sources confirm 'low prices and happy hour deals' exist but no specific times or prices are publicly listed online.",
+    "days": "unknown",
+    "start_time": "unknown",
+    "end_time": "unknown",
+    "food_deals": "none - does not serve food",
+    "drink_deals": "unknown",
+    "notes": "Established 1959, one of Denver's oldest bars. Located at 2137 Larimer St, Denver, CO 80205. Open Tue-Sun 4:00 PM - 2:00 AM, closed Mondays. Opens 11:00 AM on Rockies home game days. Average drink price $3-$5. Foursquare user tips mention Rockies game day deals: 20oz Coors Light $3 and 20oz Dale's Pale Ale $4, but these are not confirmed current specials. Features karaoke Tue/Thu at 9pm, live music most weekends, $0.50 pool. Does not serve food. Contact (720) 328-2420 or starbardenver@gmail.com for current specials."
+  },
+  {
+    "id": "the-1up-lodo",
+    "name": "The 1UP Arcade Bar - LoDo",
+    "source": "https://the1uparcadebar.com/pages/menus",
+    "crawl_note": "Data sourced from official menus page at the1uparcadebar.com. This is current, directly from the venue's own website.",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Sunday"],
+    "start_time": "3:00 PM",
+    "end_time": "7:00 PM",
+    "food_deals": "unknown - no specific food happy hour deals listed; partners with Sliceworks Pizza for food",
+    "drink_deals": [
+      "$2 Coors Light Draft",
+      "$3 Pickle Shots",
+      "$3 Mystery Shots",
+      "$3 Well Liquor (vodka, rum, gin, tequila, whiskey)",
+      "$4 Red Bull Energy Drinks & Editions",
+      "$5 Jack Daniel's",
+      "$5 Tullamore D.E.W.",
+      "$5 Tito's Vodka",
+      "$5 Herradura Tequila",
+      "$5 Sailor Jerry Rum",
+      "$5 Fords Gin",
+      "$6 1up IPA Drafts",
+      "$1 off all cans"
+    ],
+    "daily_specials": {
+      "Monday": ["$3 Modelo", "$5 Milagro Tequila"],
+      "Tuesday": ["$6 Twisted Tea", "$5 Herradura Tequila"],
+      "Wednesday": ["$2 Coors Light", "$5 Stoli Vodka", "$7 Stoli Vodka + Red Bull"],
+      "Thursday": ["$3 PBR", "$3 Pickle Shots", "$5 Tullamore Dew", "$5 Green Tea Shots"],
+      "Friday": ["$6 Tito's Vodka", "$1 off 40's"],
+      "Saturday": ["$3 Mystery Shots"],
+      "Sunday": ["$2 High Noons (12-2pm only)", "All Day Happy Hour"]
+    },
+    "notes": "Located at 1925 Blake St, Denver, CO 80202. Open Mon-Fri 3:00 PM - 2:00 AM, Sat-Sun 11:00 AM - 2:00 AM. Happy hour also runs every night 12:00 AM - close (late night happy hour). Sunday is ALL DAY happy hour. Over 45 classic arcade games, 16 pinball machines, Skee-Ball. All arcade games 25 cents, pinball 50 cents. Food from Sliceworks Pizza. Phone: (303) 736-2230."
+  },
+  {
+    "id": "great-divide-brewing",
+    "name": "Great Divide Brewery & Roadhouse - RiNo",
+    "source": "https://www.opentable.com/r/great-divide-brewery-and-roadhouse-rino-denver , https://www.greatdividebreweryandroadhouse.com/menus/happy-hour",
+    "crawl_note": "Original Great Divide Brewing Company taproom at 2201 Arapahoe St is CLOSED (confirmed on Yelp). The RiNo Roadhouse location (operated by Vibe Concepts) is the active Denver location with happy hour. Happy hour menu page at greatdividebreweryandroadhouse.com returned 403, but OpenTable provided full details. Web search results also confirmed details.",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "start_time": "2:00 PM",
+    "end_time": "5:00 PM",
+    "food_deals": [
+      "1/2 price appetizers during happy hour",
+      "Deviled Eggs - $7 (half price)",
+      "Thai Cauliflower - $6 (half price)",
+      "Chips, Guac & Salsa - $7 (half price)",
+      "Warm Pimento Cheese Dip - $5 (half price)",
+      "Greek Style Hummus - $7 (half price)",
+      "Brussels Sprouts - $6 (half price)",
+      "Pretzels & Queso - $7 (half price)"
+    ],
+    "drink_deals": [
+      "$5 draft beer",
+      "$5 house wine",
+      "$8 signature cocktails (Roadhouse Margarita, Whiskey Basil Smash, Peach Mule, All American Mule)"
+    ],
+    "late_night_happy_hour": {
+      "start_time": "9:00 PM",
+      "end_time": "close",
+      "drink_deals": [
+        "$5 Great Divide Lager",
+        "$7 signature cocktails"
+      ],
+      "notes": "Late night happy hour runs Mon-Thu and Sun 9 PM - 10 PM, Fri-Sat 9 PM - 11 PM per one source. Another source says 9 PM to close."
+    },
+    "weekly_specials": {
+      "Wednesday": "Wine & Whiskey Wednesday - 1/2 priced select bottles of wine and whiskey/bourbon pours all night"
+    },
+    "notes": "Located at 3040 Blake St #101, Denver, CO 80205 (RiNo neighborhood). NOTE: The original Great Divide taproom at 2201 Arapahoe St is permanently CLOSED. This Roadhouse location is operated by Vibe Concepts in partnership with Great Divide Brewing Co. Features craft beer, signature burgers, hearty entrees. All Roadhouse locations serve brunch, lunch, dinner, and happy hour daily. Contact: greatdividerino@vibeconcepts.com. Appetizer prices shown are the happy hour (half) prices."
+  },
+  {
+    "id": "jagged-mountain-craft-brewery",
+    "name": "Jagged Mountain Craft Brewery",
+    "source": "https://www.yelp.com/biz/jagged-mountain-craft-brewery-denver-2 , https://untappd.com/JaggedMountain , https://www.milehighhappyhour.com/five-points/jagged-mountain-brewery/",
+    "crawl_note": "PERMANENTLY CLOSED. Confirmed closed on both Yelp and Untappd. Mile High Happy Hour had no happy hour info even before closure.",
+    "days": "not_applicable",
+    "start_time": "not_applicable",
+    "end_time": "not_applicable",
+    "food_deals": "not_applicable",
+    "drink_deals": "not_applicable",
+    "status": "permanently_closed",
+    "notes": "Jagged Mountain Craft Brewery is PERMANENTLY CLOSED. Previously located at 1139 20th St, Denver, CO 80205. Founded in 2013, the brewery was known for small batch, high alcohol craft ales. Yelp and Untappd both confirm the closure. No current happy hour information is available. Mile High Happy Hour noted 'Currently, we do not know any happy hours here' even before closure."
+  }
+]

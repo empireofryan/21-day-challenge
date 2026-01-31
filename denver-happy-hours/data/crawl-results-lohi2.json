@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ale-house-amatos",
+    "name": "Ale House at Amato's",
+    "source": "https://www.denverpost.com/2022/05/24/ale-house-closing-amatos-denver-lohi/, https://www.yelp.com/biz/ale-house-denver-4",
+    "days": "unknown",
+    "start_time": "unknown",
+    "end_time": "unknown",
+    "food_deals": "unknown",
+    "drink_deals": "unknown",
+    "notes": "PERMANENTLY CLOSED since April 2022. The LoHi restaurant at 2501 16th St closed after sales struggled to rebound post-pandemic. Owned by Breckenridge-Wynkoop. The space was replaced by The Hampton Social (Chicago-based restaurant). Confirmed closed by Yelp, Denver Post, The Infatuation, and The Rooftop Guide."
+  },
+  {
+    "id": "garibaldi-mexican-bistro",
+    "name": "Garibaldi Mexican Bistro",
+    "source": "https://www.garibaldimexican.com/, https://www.yelp.com/biz/garibaldi-mexican-bistro-englewood",
+    "days": "unknown",
+    "start_time": "unknown",
+    "end_time": "unknown",
+    "food_deals": "unknown",
+    "drink_deals": "unknown",
+    "notes": "No happy hour information found on their website or through web searches. This is a small takeout-oriented Mexican bistro located at 3298 S Broadway Ste B, Englewood, CO 80113 (not in Denver proper - in Englewood). Hours are Mon-Sat 10am-8pm, Sun 10am-4pm. Primarily serves Mexico City style cuisine for takeout/pickup. They do advertise a Taco Tuesday plate starting from $10.00 (3 tacos with corn tortilla, rice, beans). Phone: (303) 781-0812."
+  },
+  {
+    "id": "el-camino-community-tavern",
+    "name": "El Camino Community Tavern",
+    "source": "https://www.milehighhappyhour.com/highlands/el-camino-community-tavern/, https://www.totalhappyhour.com/happy-hour-for-el-camino-tavern-in-denver-co-80211/",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "start_time": "3:00 PM",
+    "end_time": "5:00 PM",
+    "food_deals": [
+      "$8 green chili nachos (add carnitas, chicken, chorizo, or tempeh +$3)",
+      "$6 shishito peppers (quick fried, tossed in lemon seasoning, served with green goddess)",
+      "$7 mini guacamole & mini chili con queso"
+    ],
+    "drink_deals": [
+      "$5 ALE camino",
+      "$2 Tecate",
+      "$7 deer-&-beer (Imperial and a shot of Cazadores blanco)",
+      "$6 El Camino margarita",
+      "$8 house-infused margarita",
+      "$8 Histeria margarita (Coin-style with Herradura Silver)",
+      "$5 tequila shot (blanco)",
+      "$6 tequila shot (reposado)",
+      "$7 tequila shot (anejo)",
+      "$6 wine by the glass (red, white, or rose)"
+    ],
+    "notes": "Located at 3628 W 32nd Ave, Denver, CO 80211 (Highland Square). Open Mon-Fri 11am-11pm, Sat 10am-11pm, Sun 10am-10pm. Sources conflict on exact happy hour times: milehighhappyhour.com says daily 3pm-5pm with the prices listed above; totalhappyhour.com says 3pm-6:30pm with lower prices ($2 Pacifico, $3 house margaritas, $4 green chili nachos) plus late night happy hour Sun-Thu 10pm-midnight and Fri-Sat 10pm-1am. The milehighhappyhour.com data appears more detailed and specific. Also famous for $1 Taco Tuesdays. Their own specials page is currently being updated."
+  },
+  {
+    "id": "senor-bear",
+    "name": "Senor Bear",
+    "source": "http://places.singleplatform.com/seor-bear/menu, https://www.westword.com/restaurants/happy-hour-at-senor-bear-is-a-festive-latin-party-9972937, https://www.westword.com/restaurants/denver-happy-hour-of-the-week-at-senor-bear-11784531, https://denver.goldenbuzz.social/happy-hour/senor-bear/",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "start_time": "3:00 PM",
+    "end_time": "6:00 PM",
+    "food_deals": [
+      "$4 Mezcla de Fiesta (candied black lime cashews, garlic chile peanuts, chulpe corn, cilantro, lime)",
+      "$1.25 each chicken wing confit (with choice of sauce: spicy chipotle/jalapeno, hot green habanero, or 'ruin your day' death bear sauce)",
+      "$3.50 Gordo Crunch (flour tortilla wrapped crispy taco shell, chorizo, lettuce, jack cheese, chilies, guacamole)",
+      "$4.50 Latin Pizza",
+      "$5.50 seafood tostada (rotating ceviche with avocado, onion, tomato, aji amarillo)",
+      "$2.50 mini queso (gooey dip with pepitas)"
+    ],
+    "drink_deals": [
+      "$3 Tecate",
+      "$4 michelada",
+      "$5 margarita",
+      "$5 paloma",
+      "$5 pisco sour",
+      "$5 Cuba libre",
+      "$5 congelado del dia (daily frozen drink)",
+      "$5 daily red wine",
+      "$5 daily white wine"
+    ],
+    "notes": "Located at 3301 Tejon St, Denver, CO 80211 (LoHi). Happy hour called 'Hora Loca'. At the bar: 3-6pm; at tables: 3-5pm. The Gordo Crunch is the signature happy hour item - only available during Hora Loca. IMPORTANT: Prices listed are from SinglePlatform cached menu and Westword reviews (2018-2020). A new chef (Joe Mazzocco) joined in 2025 and is revamping the menu - some items like Gordo Crunch ($5 reported elsewhere) and Coconut Rice ($13) confirmed to remain. Current prices may differ. The restaurant adds a 20% service charge (not a tip/gratuity). Open Mon-Thu 3-10pm, Fri-Sat 3-11pm, Sun 10am-10pm. Phone: 720-572-5997. Their website (senorbeardenver.com) had SSL connection issues during crawling."
+  },
+  {
+    "id": "the-way-back",
+    "name": "The Way Back",
+    "source": "https://denver.thedrinknation.com/bars/profile/4030-The-Way-Back, https://www.opentable.com/r/the-way-back-denver, https://303magazine.com/2018/03/the-way-back-tennyson-photos/",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "4:00 PM",
+    "end_time": "6:00 PM",
+    "food_deals": [
+      "$7 small plates",
+      "$8 small plates",
+      "$9 small plates"
+    ],
+    "drink_deals": [
+      "$4 select beers and well drinks",
+      "$5 select cocktails",
+      "$6 house wines"
+    ],
+    "notes": "STATUS UNCERTAIN. Located at 3963 Tennyson St, Denver, CO 80212. Yelp lists The Way Back as CLOSED, but OpenTable still shows hours (Tue-Sat 5-9pm as of Jan 2026) and their website (thewaybackdenver.com) is still active with menu, drinks menu, and reservations pages. The restaurant also has a Wayback Wine Shop. Known for creative, seasonal contemporary plates using locally sourced ingredients. The happy hour prices listed are from drinknation.com and 303 Magazine (2018) - they may be outdated. An earlier article mentioned happy hour featuring $3 Coors Banquet, $5 house sours, $6 house wines. Recommend calling or visiting to confirm current status and specials. Email: info@thewaybackdenver.com."
+  },
+  {
+    "id": "little-man-ice-cream",
+    "name": "Little Man Ice Cream",
+    "source": "https://www.littlemanicecream.com/, https://www.yelp.com/biz/little-man-ice-cream-denver",
+    "days": "unknown",
+    "start_time": "unknown",
+    "end_time": "unknown",
+    "food_deals": "unknown",
+    "drink_deals": "unknown",
+    "notes": "NO REGULAR HAPPY HOUR. This is an ice cream shop, not a bar/restaurant. Located at 2620 16th St, Denver, CO 80211 (iconic 28-foot-tall milk can building). Open Mon-Thu 12-10pm, Fri-Sat 12-11pm, Sun 12-10pm. They do offer seasonal ticketed experiences ($125/person) that include a 'happy hour' with charcuterie, factory tour, and take-home ice cream, but this is a special event, not a regular happy hour. Also has a Factory location at 4411 W Colfax Ave. Some locations offer boozy shakes. Established 2008. Phone: (303) 455-3811. Website returned 503 error during crawling."
+  },
+  {
+    "id": "retro-room",
+    "name": "The Retro Room Lounge & Salon",
+    "source": "https://retroroomlounge.squarespace.com/specials, https://www.milehighhappyhour.com/five-points/the-retro-room-lounge/, https://retroroomlounge.squarespace.com/",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "start_time": "4:00 PM",
+    "end_time": "7:00 PM",
+    "food_deals": [
+      "$7 burger and a beer (all day, per their own website)",
+      "$6 wings and a beer (Wednesdays, per milehighhappyhour.com)"
+    ],
+    "drink_deals": [
+      "$4 You-Call-Its (per their own website)",
+      "House-made pickle shots (signature item, price not listed)",
+      "Scorpion shots (signature item, price not listed)"
+    ],
+    "notes": "Located at 2034 Larimer St, Denver, CO 80205 (Five Points / near Coors Field) - NOT at 1801 Wynkoop as searched. Hours: Mon 4pm-2am, Tue-Sun 11am-2am. Phone: 303-296-3352. Email: theretroroom@hotmail.com. Known as 'home of the original pickle shot.' Sources conflict slightly on prices: their own Squarespace site says $4 You-Call-Its and $7 Burger & Beer; milehighhappyhour.com says $3 U-Call-Its and $6 Burger & Beer. The restaurant's own website is likely more current. Also features infused vodkas (honey habanero, pepperoncini, root beer, pickle). Connected to Retro Room Salon. Opened in 2008. Instagram: @retroroomdenver."
+  },
+  {
+    "id": "reivers-bar-grill",
+    "name": "Reiver's Bar & Grill",
+    "source": "https://ultimatehappyhours.com/restaurants/reivers-bar-grill/, https://reiversbarandgrill.com/happy-hour/",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "2:00 PM",
+    "end_time": "6:00 PM",
+    "food_deals": [
+      "$8 chips, guac & salsa",
+      "$8 black bean dip",
+      "$9 Greek style fried cheese",
+      "$10 hot honey shrimp",
+      "$10 deviled eggs",
+      "$11 Mexican street corn & Brussels",
+      "$11 Greek style hummus",
+      "$12 homemade pickle chips",
+      "$12 prime rib egg rolls",
+      "$13 short rib nachos",
+      "$13 pretzels & queso"
+    ],
+    "drink_deals": [
+      "$1 off draft beers",
+      "$6 house wine",
+      "$8 cocktails",
+      "$3.75 Avery IPA (14oz)",
+      "$6.50 Avery IPA (25oz)",
+      "$15 Avery IPA (60oz pitcher)"
+    ],
+    "notes": "Located at 1085 S Gaylord St, Denver, CO 80209 (Washington Park / Old Gaylord Street Shops). Open since 1977. Mon-Thu 11am-10pm, Fri 11am-11pm, Sat 10am-11pm, Sun 10am-10pm. Phone: (303) 733-8856. Menu last updated 06/22/2025. Part of Vibe Concepts. Note: reiversbarandgrill.com/happy-hour returned 403 Forbidden during direct crawling, but data was successfully retrieved from ultimatehappyhours.com (updated June 2025) and web search results."
+  }
+]

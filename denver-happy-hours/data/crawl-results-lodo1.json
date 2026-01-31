@@ -1,0 +1,132 @@
+[
+  {
+    "id": "falling-rock-tap-house",
+    "name": "Falling Rock Tap House",
+    "source": "https://www.yelp.com/biz/falling-rock-tap-house-denver",
+    "days": "PERMANENTLY CLOSED",
+    "start_time": "N/A",
+    "end_time": "N/A",
+    "food_deals": "N/A",
+    "drink_deals": "N/A",
+    "notes": "Falling Rock Tap House permanently closed in June 2021 after 24 years at 1919 Blake St. Confirmed closed by Yelp (updated Aug 2025), Denver Post, 9News, CBS Colorado, and Denver7. The closure was attributed to COVID-19 impacts, a construction project that caused 30% sales drop, and neighborhood changes. Their website (fallingrocktaphouse.com) still returns a 503 error. This venue should be removed from the aggregator."
+  },
+  {
+    "id": "wynkoop-brewing",
+    "name": "Wynkoop Brewing Company",
+    "source": "https://wynkoop.com",
+    "source_search": "https://www.yelp.com/biz/wynkoop-brewing-denver-2",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "3:00 PM",
+    "end_time": "6:00 PM",
+    "food_deals": [
+      "$5 Pulled Chicken Tacos (roasted corn pico, cotija, cilantro)",
+      "Food specials starting at $5 (full menu on PDF at wynkoop.com/wp-content/uploads/menus/happyhour.pdf - PDF was not machine-readable)"
+    ],
+    "drink_deals": [
+      "$2 off all Wynkoop beers",
+      "$2 off house wines",
+      "$2 off well drinks"
+    ],
+    "notes": "Located at 1634 18th St, Denver, CO 80202. Colorado's first brewpub (est. 1988). Open daily at 11 AM. The happy hour PDF menu exists at wynkoop.com/wp-content/uploads/menus/happyhour.pdf but could not be parsed (binary/image PDF). The website homepage confirms '$2.00 off select beers, wines and well drinks along with food specials starting at $5'. Web search results confirmed Mon-Fri 3-6 PM. Also offers free pool Mon-Tue 11 AM-4 PM. Phone: 303-297-2700."
+  },
+  {
+    "id": "terminal-bar",
+    "name": "Terminal Bar",
+    "source": "https://ultimatehappyhours.com/restaurants/terminal-bar/",
+    "source_search": "https://ingoodtastedenver.com/happy-hour-deals-for-2025/",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "4:00 PM",
+    "end_time": "6:00 PM",
+    "food_deals": "unknown",
+    "drink_deals": [
+      "$5.50 select draught beer (Ultimate Happy Hours, updated 06/22/25)",
+      "$7.00 well spirits (Ultimate Happy Hours, updated 06/22/25)",
+      "$7.50 house wines (Ultimate Happy Hours, updated 06/22/25)"
+    ],
+    "notes": "Located at 1701 Wynkoop St inside Denver Union Station's Great Hall, next to the Crawford Hotel. The original website (theterminalbar.com) domain is for sale; the active site is terminalbardenver.com (returned 503 errors during crawl). The In Good Taste Denver 2025 guide listed slightly different prices: $6 select draught, $7 well spirits, $7 house wines. Happy hour is available anywhere inside Terminal Bar, the Beer Garden benches, and from the Beer Window for takeaway in the Great Hall. Friday evenings feature live piano music 6-9 PM. 30 Colorado craft beers on tap. No food specials were found on any source. Phone: 720-460-3701."
+  },
+  {
+    "id": "herbs-hideout",
+    "name": "Herb's Hideout",
+    "source": "https://thehappyhourfinder.com/us_co/denver/herbs-hideout/",
+    "source_website": "http://www.herbsbar.com/",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "start_time": "unknown - see notes",
+    "end_time": "unknown - see notes",
+    "food_deals": [
+      "$2 Tacos (Monday special)",
+      "1/2 priced appetizers (daily)",
+      "$7 select appetizers (weekday 3-7 PM window)"
+    ],
+    "drink_deals": [
+      "$3 Wells & domestic pints (weekday 3-6 PM)",
+      "$4 Smirnoff, Jack Tennessee Fire, house wines (weekday 3-6 PM)",
+      "$4 You Call It - top shelf excluded (daily 4-7 PM)",
+      "$3 Domestics (daily)",
+      "$4 Single Wells (daily)",
+      "$6 Double Wells (daily)",
+      "$6 Long Islands (daily)",
+      "$5 daily shot specials",
+      "$2 Coors Light drafts (weekday 3-7 PM)",
+      "$3 You Call It (weekday 3-7 PM)",
+      "$3 Jager & Fireball (Monday)",
+      "$2.50 Wells & domestics (Monday)",
+      "$3 Shock Top (Monday)"
+    ],
+    "notes": "Located at 2057 Larimer St, Denver, CO 80205. IMPORTANT DATA QUALITY NOTE: The happy hour data comes from Happy Hour Finder aggregator, which lists multiple overlapping time windows (11 AM-7 PM, 3-6 PM, 3-7 PM, 4-7 PM) that may reflect different periods or data updates rather than concurrent specials. Herb's official website (herbsbar.com) and their Downtown Denver Bars listing do NOT list specific happy hour details. Yelp lists hours as Mon-Sat 5 PM-2 AM, Sun 3 PM-2 AM, which conflicts with some of the earlier happy hour start times listed on aggregators. The aggregator data may be outdated. Best to call (303) 299-9555 or (303) 296-9733 to confirm current specials. Musician-owned venue known for live music. Best of Denver 2025 Winner. Never a cover charge."
+  },
+  {
+    "id": "the-cruise-room",
+    "name": "The Cruise Room",
+    "source": "https://www.theoxfordhotel.com/eat-drink/the-cruise-room",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "5:00 PM",
+    "end_time": "6:00 PM",
+    "food_deals": "unknown",
+    "drink_deals": [
+      "Captain's Call - bartender's choice cocktail (price not published)"
+    ],
+    "notes": "Located at 1600 17th St inside The Oxford Hotel, Denver, CO 80202. Denver's longest-running bar, opened the day after Prohibition was repealed in 1933. Art Deco design inspired by the RMS Queen Mary. The 'Captain's Call' is their version of happy hour - a bartender's choice cocktail available Mon-Fri 5-6 PM. No specific pricing was found on any source (website, Yelp, Foursquare, TripAdvisor, Drink Denver, or Sage Menu). The venue is listed at $$$ price level. Regular hours: Mon-Thu 4 PM-11 PM, Fri-Sat 4 PM-12 AM, Sun 4 PM-10 PM. No reservations accepted, walk-in only. This is NOT a traditional happy hour with discounted drinks - it is a single featured cocktail chosen by the bartender. Phone: (303) 262-6070."
+  },
+  {
+    "id": "viewhouse-ballpark",
+    "name": "ViewHouse Eatery, Bar & Rooftop (Ballpark)",
+    "source": "https://www.viewhouse.com/events/5-7-9-happy-hour",
+    "source_search": "https://denver.thedrinknation.com/bars/profile/3736-ViewHouse-Eatery-Bar-Rooftop-Ballpark",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "start_time": "3:00 PM",
+    "end_time": "6:00 PM",
+    "food_deals": [
+      "$5 Sweet Potato Fries",
+      "$5 Onion Rings",
+      "$5 Chips and Salsa",
+      "$7 Kichin Pigs In A Blanket",
+      "$7 Bee Sting Cauliflower",
+      "$7 Caesar Salad",
+      "$7 Pork Green Chili"
+    ],
+    "drink_deals": [
+      "$4 Bud Light",
+      "$4 Coors Light",
+      "$4 VH Beer Rockpile Red Ale",
+      "$4 Gin (well)",
+      "$4 Rum (well)",
+      "$4 Vodka (well)",
+      "$4 Jack Daniel's",
+      "$4 Barefoot Wine",
+      "$6 VH Beer 1858 IPA",
+      "$6 VH Beer Ballpark Pale Ale",
+      "$6 VH Beer Peach Buzz Blonde Ale",
+      "$6 VH Beer Que Pasa Mexi Lager",
+      "$6 Odell Mountain Standard Hazy IPA",
+      "$8 Spicy Blackberry Margarita",
+      "$8 VH Mule",
+      "$8 Cucumber Fresca",
+      "$8 VH Lemonade",
+      "$8 Viewhouse Margarita",
+      "$8 Dusty Rose Margarita",
+      "$8 Skinny Paloma"
+    ],
+    "notes": "Located at 2015 Market St, Denver, CO 80205. ViewHouse advertises their happy hour as '$5 | $7 | $9' tiers, though actual prices found from web search show $4/$6/$8 drink tiers and $5/$7 food tiers. The viewhouse.com website returned 403 errors during direct crawl, so data was obtained from web search results referencing their official menu pages. Independently owned, chef-driven, with 4 Colorado locations. 35 local taps, 15 local distilleries, 40 house-made cocktails. Also offers Thursday Ladies Night 9 PM-12 AM (free well drinks, house wines, draft beers for women; live DJ). The full happy hour menu is at viewhouse.com/menus/happy-hour. Phone: (720) 878-2015."
+  }
+]
