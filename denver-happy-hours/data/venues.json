@@ -1,0 +1,194 @@
+[
+  {
+    "id": "falling-rock-tap-house",
+    "name": "Falling Rock Tap House",
+    "address": "1919 Blake St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://fallingrocktaphouse.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "wynkoop-brewing-company",
+    "name": "Wynkoop Brewing Company",
+    "address": "1634 18th St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://wynkoop.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "terminal-bar",
+    "name": "Terminal Bar",
+    "address": "1701 Wynkoop St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://theterminalbar.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "herb-s-hideout",
+    "name": "Herb's Hideout",
+    "address": "2057 Larimer St, Denver, CO 80205",
+    "neighborhood": "LoDo",
+    "website": "https://herbshideout.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "the-cruise-room",
+    "name": "The Cruise Room",
+    "address": "1600 17th St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://thecruiseroom.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "retro-room",
+    "name": "Retro Room",
+    "address": "1801 Wynkoop St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": null,
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "viewhouse-eatery",
+    "name": "Viewhouse Eatery",
+    "address": "2015 Market St, Denver, CO 80205",
+    "neighborhood": "LoDo",
+    "website": "https://viewhouse.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "nallen-s-irish-pub",
+    "name": "Nallen's Irish Pub",
+    "address": "1429 Market St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://nallensirishpub.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "star-bar-denver",
+    "name": "Star Bar Denver",
+    "address": "2137 Larimer St, Denver, CO 80205",
+    "neighborhood": "LoDo",
+    "website": "https://starbardenver.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "the-1up-lodo",
+    "name": "The 1UP - LoDo",
+    "address": "1925 Blake St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://the1up.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "great-divide-brewing",
+    "name": "Great Divide Brewing",
+    "address": "2201 Arapahoe St, Denver, CO 80205",
+    "neighborhood": "LoDo",
+    "website": "https://greatdivide.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "jagged-mountain-craft-brewery",
+    "name": "Jagged Mountain Craft Brewery",
+    "address": "1139 20th St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://jaggedmountainbrewery.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "linger",
+    "name": "Linger",
+    "address": "2030 W 30th Ave, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://lingerdenver.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "lohi-steakbar",
+    "name": "LoHi SteakBar",
+    "address": "3200 Tejon St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://lohisteakbar.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "avanti-food-beverage",
+    "name": "Avanti Food & Beverage",
+    "address": "3200 Pecos St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://avantifandb.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "little-man-ice-cream",
+    "name": "Little Man Ice Cream",
+    "address": "2620 16th St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://littlemanicecream.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "williams-graham",
+    "name": "Williams & Graham",
+    "address": "3160 Tejon St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://williamsandgraham.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "highland-tap-and-burger",
+    "name": "Highland Tap and Burger",
+    "address": "2219 W 32nd Ave, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://highlandtapandburger.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "ale-house-at-amato-s",
+    "name": "Ale House at Amato's",
+    "address": "2501 16th St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://alehousedenver.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "reiver-s-bar",
+    "name": "Reiver's Bar",
+    "address": "1085 S Gaylord St, Denver, CO 80209",
+    "neighborhood": "LoHi",
+    "website": null,
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "garibaldi-mexican-bistro",
+    "name": "Garibaldi Mexican Bistro",
+    "address": "3055 Zuni St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://garibaldimexican.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "el-camino-community-tavern",
+    "name": "El Camino Community Tavern",
+    "address": "3628 W 32nd Ave, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://elcaminotavern.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "se-or-bear",
+    "name": "Señor Bear",
+    "address": "3301 Tejon St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://senorbeardenver.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  },
+  {
+    "id": "the-way-back",
+    "name": "The Way Back",
+    "address": "3279 Navajo St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://thewaybackdenver.com",
+    "scraped_at": "2026-01-31T01:34:11.363Z"
+  }
+]
