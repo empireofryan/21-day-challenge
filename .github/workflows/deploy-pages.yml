@@ -3,9 +3,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main, master]
-    paths:
-      - 'denver-happy-hours/frontend/**'
-      - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
 
 permissions:
@@ -26,6 +23,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+          cache-dependency-path: denver-happy-hours/frontend/package-lock.json
 
       - name: Install dependencies
         working-directory: denver-happy-hours/frontend
