@@ -1,0 +1,153 @@
+[
+  {
+    "id": "tavernetta",
+    "name": "Tavernetta",
+    "address": "1889 16th St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.tavernettadenver.com/",
+    "source": "Tavernetta official website (tavernettadenver.com/menu/happy-hour), Ultimate Happy Hours, Yelp (updated Jan 2026), OpenTable",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "3:00 PM",
+      "end_time": "6:00 PM",
+      "food_deals": [
+        "$5 Alici",
+        "$6 Marcona Almonds",
+        "$7 Focaccia",
+        "$7 Marinated Olives",
+        "$8 Polpette",
+        "$10 Parmigiano Reggiano e Balsamico",
+        "$10 Gorgonzola e Miele",
+        "$10 Bocconcino e Frutta",
+        "$10 Carrozza",
+        "$12 Prosciutto di Parma",
+        "$12 Salame Finocchiona",
+        "$12 Coppa",
+        "$15 Cacio e Pepe",
+        "$18 Insalata Mista",
+        "$19 Calamari Fritti",
+        "$21 Burrata",
+        "$22 Bucatini all'Amatriciana",
+        "$45 Roman Pasta Flight"
+      ],
+      "drink_deals": [
+        "$8 Peroni draft",
+        "$9 Scarpetta Frico wines (Bianco, Rosso, Rosato)",
+        "$9 Venetian Spritz",
+        "$14 Elena Spritz",
+        "$14 Penicillin cocktail",
+        "$14 Jungle Bird cocktail",
+        "$14 Late For The Train cocktail",
+        "$16 Old Fashioned"
+      ]
+    },
+    "notes": "Upscale Italian by James Beard Award-winning Frasca Hospitality Group. Happy hour is bar and lounge only, no reservations needed. Near Union Station. Replaces Falling Rock Tap House."
+  },
+  {
+    "id": "seven-grand",
+    "name": "Seven Grand",
+    "address": "1855 Blake St, Suite 160, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.sevengrandbars.com/denver",
+    "source": "Overpass API (OpenStreetMap), sevengrandbars.com, Yelp (updated Dec 2025), Dairy Block, Drink Denver",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Sunday"],
+      "start_time": "3:00 PM",
+      "end_time": "7:00 PM",
+      "food_deals": "unknown",
+      "drink_deals": [
+        "$6 happy hour cocktails",
+        "Discounted whiskey selections from 700+ bottle collection"
+      ]
+    },
+    "notes": "Whiskey-focused bar in the Dairy Block with 700+ whiskies. Pool tables, live Americana music. Sunday happy hour is all day (some sources say 10 PM - 2 AM). Open daily 3 PM - 2 AM. Replaces Star Bar Denver."
+  },
+  {
+    "id": "poka-lola-social-club",
+    "name": "Poka Lola Social Club",
+    "address": "1850 Wazee St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.pokaloladenver.com/",
+    "source": "Overpass API (OpenStreetMap), pokaloladenver.com, Yelp (updated Dec 2025), Dairy Block, Visit Denver",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "4:00 PM",
+      "end_time": "6:00 PM",
+      "food_deals": "unknown",
+      "drink_deals": [
+        "Discounted craft cocktails",
+        "Discounted house-made sodas and cocktails"
+      ]
+    },
+    "notes": "Art-deco cocktail bar in the Dairy Block inspired by turn-of-the-century American soda fountain culture. Also hosts Psychedelic Sundays and weekly live music. Party sizes 6 or less. Hours: Mon-Wed 3-11 PM, Thu 3 PM-12 AM, Fri 3 PM-2 AM, Sat 1 PM-2 AM, Sun 3-9 PM. Replaces Jagged Mountain Craft Brewery."
+  },
+  {
+    "id": "terminal-bar",
+    "name": "Terminal Bar",
+    "address": "1701 Wynkoop St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.terminalbardenver.com/",
+    "source": "terminalbardenver.com, Ultimate Happy Hours (updated Jun 2025), Denver Union Station, Yelp (updated Nov 2025)",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "start_time": "4:00 PM",
+      "end_time": "6:00 PM",
+      "food_deals": "unknown",
+      "drink_deals": [
+        "$5.50 select draught beer",
+        "$7.00 well spirits",
+        "$7.50 house wines by the glass"
+      ]
+    },
+    "notes": "Located inside the Great Hall of Denver Union Station in the original train station ticket windows. 30 Colorado craft beers on tap. Outdoor patio with views of Wynkoop Plaza. Open daily 11 AM - 12 AM. Replaces Great Divide Brewery (which was in RiNo, not LoDo)."
+  },
+  {
+    "id": "postino-lohi",
+    "name": "Postino LoHi",
+    "address": "2715 17th St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://www.postinowinecafe.com/locations/postino-lohi",
+    "source": "Overpass API (OpenStreetMap), postinowinecafe.com, Ultimate Happy Hours (updated Jun 2025), Yelp (updated Oct 2025), Denver Insider",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "11:00 AM",
+      "end_time": "5:00 PM",
+      "food_deals": [
+        "$25 bruschetta board + bottle of wine (Mon & Tue after 8 PM)"
+      ],
+      "drink_deals": [
+        "$6 glasses of wine (all day until 5 PM)",
+        "$6 pitchers of beer (all day until 5 PM)"
+      ]
+    },
+    "notes": "Wine cafe in a converted Denver Bookbinding Company building. Pet-friendly patio. Happy hour runs from open until 5 PM daily - one of the longest happy hours in the area. Nearly 20 wines available by the glass at $6. Hours: Mon-Thu 11 AM-11 PM, Fri 11 AM-12 AM, Sat 10 AM-12 AM, Sun 10 AM-10 PM. Replaces LoHi SteakBar."
+  },
+  {
+    "id": "linger",
+    "name": "Linger",
+    "address": "2030 W 30th Ave, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://ediblebeats.com/restaurants/linger/",
+    "source": "Overpass API search results, ediblebeats.com, Mile High Happy Hour, Yelp (updated Dec 2025), Denver Insider",
+    "happy_hour": {
+      "days": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+      "start_time": "4:00 PM",
+      "end_time": "6:30 PM",
+      "food_deals": [
+        "$3.50 Jerk Chicken Lettuce Wrap",
+        "$4 Mongolian BBQ Duck Bun",
+        "$5 Sugar Snap Peas",
+        "$5 Sweet Potato Waffle Fries",
+        "$5.50 Linger Wagyu Slider",
+        "$6 Popper Breakdown (shishito peppers)",
+        "$7 French Onion Mussels"
+      ],
+      "drink_deals": [
+        "$4 select draft beers",
+        "$5 house red or white wine",
+        "$5 specialty cocktails (Red Sangria, Ginger Collins, New Saigon, Coconut Daiquiri, Whiskey Daisy)"
+      ]
+    },
+    "notes": "Global street food concept in a converted mortuary with rooftop patio featuring a 1975 GMC RV bar. Employee-owned (ESOP) via Edible Beats. Sources ~80% organic ingredients. 5% Denver Employee Benefits surcharge on checks. Also serves brunch Sat-Sun. Additional LoHi replacement venue for geographic coverage."
+  }
+]

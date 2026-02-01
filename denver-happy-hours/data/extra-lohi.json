@@ -1,0 +1,170 @@
+[
+  {
+    "id": "postino-lohi",
+    "name": "Postino LoHi",
+    "address": "2715 17th St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://www.postino.com/locations/postino-lohi",
+    "source": "postino.com, ultimatehappyhours.com/restaurants/postino-lohi",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "Open",
+      "end_time": "5:00 PM",
+      "food_deals": [
+        "$25 board of bruschetta + bottle of wine (Monday & Tuesday after 8 PM only)"
+      ],
+      "drink_deals": [
+        "$6 glass of wine (any bottle on the menu)",
+        "$6 pitcher of beer"
+      ]
+    },
+    "notes": "Happy hour runs from open until 5 PM daily (Mon-Thu open at 11 AM, Fri 11 AM, Sat-Sun 10 AM). Monday and Tuesday after 8 PM there is a separate late-night deal: bruschetta board + bottle of wine for $25. Very popular; pet-friendly patio."
+  },
+  {
+    "id": "cart-driver-lohi",
+    "name": "Cart-Driver LoHi",
+    "address": "2239 W 30th Ave, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://www.cart-driver.com/lohi",
+    "source": "cart-driver.com, diningout.com/denver/happy-hour-cart-driver-pizza-denver",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "4:00 PM (Mon-Thu) / 3:00 PM (Fri-Sun)",
+      "end_time": "6:00 PM (Mon-Thu) / 5:00 PM (Fri-Sun)",
+      "food_deals": [
+        "Daisy pizza $10 (normally $18)",
+        "Oysters $3.50 each",
+        "Chicken liver mousse with rosemary focaccia $9",
+        "Mini board (sardines, piada bread, compound butter, sambal) $10"
+      ],
+      "drink_deals": [
+        "Prosecco on tap $8/glass",
+        "House red or white wine $9/pour",
+        "Messed Up Negroni (gin, vermouth, Campari, prosecco) $8",
+        "Bartender's choice cocktail $8",
+        "Genesee tall boy $3.50"
+      ]
+    },
+    "notes": "Reopened January 2025 after extended closure for plumbing repairs. Known for wood-fired pizza, fresh oysters, and house-made pasta. Dine-in only for happy hour. Reservations recommended as it fills up fast. Mon 4-9pm, Tue-Sat 4-10pm, Sun 4-9pm."
+  },
+  {
+    "id": "bar-dough",
+    "name": "Bar Dough",
+    "address": "2227 W 32nd Ave, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://www.bardoughdenver.com",
+    "source": "bardoughdenver.com/menu/happy-hour, milehighhappyhour.com/highlands/bar-dough",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
+      "food_deals": [
+        "Castelvetrano Olives $6",
+        "Fried Ravioli $8",
+        "Charcuterie Plate $10",
+        "3x Cheese Pizza $10 (add pepperoni, sausage, or prosciutto +$2)",
+        "Meatball Sub $13",
+        "Cacio E Pepe $15",
+        "Verde Salad $10"
+      ],
+      "drink_deals": [
+        "Montucky Lager $5",
+        "House Wine (red or white) $7",
+        "Old Fashioned $8",
+        "Plum Margarita $8",
+        "Aperol Spritz $8",
+        "Grappa Sour $11",
+        "Limoncello Flight $12",
+        "Espresso-Tini Flight $14"
+      ]
+    },
+    "notes": "Prices sourced from official website happy hour menu page (bardoughdenver.com/menu/happy-hour). Note: milehighhappyhour.com lists lower legacy prices ($5 food items, $5-7 drinks) and Mon-Fri 3-5:30 PM hours -- the official site is likely more current. Modern regional Italian cuisine with wood-fired pizza. Phone: (720) 668-8506."
+  },
+  {
+    "id": "root-down",
+    "name": "Root Down",
+    "address": "1600 W 33rd Ave, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://ediblebeats.com/restaurants/root-down/",
+    "source": "milehighhappyhour.com/highlands/root-down, ediblebeats.com",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "start_time": "4:30 PM",
+      "end_time": "7:00 PM",
+      "food_deals": [
+        "Spring Vegetable Fritto Misto $5",
+        "Steamed PEI Mussels $7",
+        "Seared Colombian Arepas $4.50",
+        "Edamame Hummus $4",
+        "Shrimp Cocktail $7",
+        "Organic Sweet Potato Fries $4",
+        "Veggie Burger Slider $4",
+        "Green Chili Duck Taco $4",
+        "Colorado Lamb Slider $5"
+      ],
+      "drink_deals": [
+        "$5 Cocktails: Cucumber Daisy, South Side, Coconut Ginger Caipirinha, Spicy Paloma, Don Draper",
+        "$5 House Red or White Wine",
+        "$4 Selected Draft",
+        "$3 Cold Ozeki Kara Dry Sake",
+        "$2 PBR or Miller High Life"
+      ]
+    },
+    "notes": "Food items are seasonal and rotate; the items listed were sourced from milehighhappyhour.com and may have changed. Sister restaurant of Linger (same owner, Edible Beats). Farm-to-table focus with sustainable sourcing. Also offers an Early Bird 3-course menu for $38 Mon-Thu 4:30-6 PM. Phone: (303) 993-4200."
+  },
+  {
+    "id": "ashkara",
+    "name": "Ash'Kara",
+    "address": "2005 W 33rd Ave, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://www.ashkaradenver.com",
+    "source": "ashkaradenver.com/menus, OpenTable, denverinsider.org",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "3:00 PM",
+      "end_time": "6:00 PM",
+      "food_deals": [
+        "Pickles (cucumber, carrot, beet) $7",
+        "Castelvetrano Olives (Calabrian chili, orange) $5",
+        "Fried Halloumi and Panisse $7",
+        "Hummus $10",
+        "Carrot Kibbeh Nayyeh (ground carrot tartare, apricot, sunflower seeds) $10",
+        "Mezze Trio (htipiti, whipped labneh, babaganoush) $13",
+        "Chicken Kebab $6",
+        "Lamb or Steak Kebab $8",
+        "Za'atar Spiced Fries with harissa aioli $5"
+      ],
+      "drink_deals": [
+        "Draft Beer (Ratio selections) $5",
+        "House Wine (red, white, rosé, sparkling) $8",
+        "Mediterranean V&T $9",
+        "Berry Bourbon Smash $9",
+        "Aperol Spritz $10",
+        "AK Old-Fashioned (bourbon, vanilla, cherry, cardamom) $15"
+      ]
+    },
+    "notes": "Three-time Michelin Bib Gourmand winner (2023-2025). Named 5280 Magazine's Best Mediterranean Restaurant 2025. Full happy hour 3-5 PM, bar-only extension 5-6 PM. Wood-fired oven bakes pita to order. Middle Eastern / Mediterranean cuisine by Chef Reginald Dotson. Phone: (303) 537-4407."
+  },
+  {
+    "id": "highland-tavern",
+    "name": "Highland Tavern",
+    "address": "3400 Navajo St, Denver, CO 80211",
+    "neighborhood": "LoHi",
+    "website": "https://highlandtavern.com",
+    "source": "milehighhappyhour.com/highlands/highland-tavern, totalhappyhour.com, yelp.com",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "4:00 PM",
+      "end_time": "7:00 PM",
+      "food_deals": "unknown",
+      "drink_deals": [
+        "$3 Bud, Coors, or Miller bottles",
+        "$2 PBR",
+        "$4 Well drinks",
+        "$4.50 House Wine by the glass",
+        "$1 off select draft beers"
+      ]
+    },
+    "notes": "Also has late-night specials daily 9 PM to close. Featured on Food Network's Diners, Drive-Ins and Dives. Known for homemade tater tots, buffalo wings, chicharones, and K-town Rib Tips. Neighborhood corner pub since 2006 with pool table, ping-pong, foosball, video games, and free Wi-Fi. Food happy hour deals not confirmed -- call (303) 433-1990 to verify. Open Mon-Fri 11 AM-2 AM, Sat-Sun 10 AM-2 AM."
+  }
+]

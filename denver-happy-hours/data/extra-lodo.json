@@ -1,0 +1,226 @@
+[
+  {
+    "id": "jax-fish-house",
+    "name": "Jax Fish House & Oyster Bar",
+    "address": "1539 17th St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.jaxfishhouse.com/location/jax-fish-house-oyster-bar-lodo/",
+    "source": "jaxfishhouse.com happy hour menu page, milehighhappyhour.com, 5280.com",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
+      "food_deals": [
+        "CrackerJax Oysters $2 each",
+        "West Coast Oyster $3 each",
+        "Chargrilled Oyster $5 each",
+        "French Fries $6",
+        "Hush Puppies $7",
+        "Cup of Gumbo $8",
+        "Fish House Chopped Salad $8",
+        "Peel N' Eat Shrimp 1/4 LB $10",
+        "Grilled Shishitos $11",
+        "Steamed PEI Mussels 1/2 LB $12",
+        "Lobster & Shrimp Deviled Eggs $4 single / $12 for 3",
+        "Fried New England Calamari $13",
+        "Chile Lime Fish Tostadas $13",
+        "Gumbo Fries $13",
+        "Jax Fish Sandwich $14",
+        "The Lure Sampler $41"
+      ],
+      "drink_deals": [
+        "Odell Lager (can) $5",
+        "Draft Beer $1 off",
+        "Oyster Shooter $8",
+        "Whiskey Tea $10",
+        "On Tap Cocktail $10",
+        "Jax Strawberry Lemonade $10",
+        "Cucumber Lemon Press $10",
+        "Jax Rickey $10",
+        "Vita Vivet Cava (glass) $11",
+        "Chateau de Sancerre (glass) $11",
+        "Reguta Chardonnay (glass) $11",
+        "Poggio Terra Barbera (glass) $11",
+        "Jack Rabbit Hill Martini $12"
+      ]
+    },
+    "notes": "All-night happy hour on Mondays. Tue-Sun happy hour is 3:00-5:00 PM. Serving Denver's best seafood since 1996. Lines form before opening for the oyster deals. Hours: Mon-Thu 3-9 PM, Fri-Sat 3-10 PM, Sun 3-9 PM."
+  },
+  {
+    "id": "tavernetta",
+    "name": "Tavernetta",
+    "address": "1889 16th St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.tavernettadenver.com/",
+    "source": "tavernettadenver.com happy hour menu page, 5280.com, milehighhappyhour.com",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "3:00 PM",
+      "end_time": "6:00 PM",
+      "food_deals": [
+        "Alici (Anchovy, Tomato, Oregano) $5",
+        "Marcona Almond (Lavender, Fennel) $6",
+        "Focaccia (Olive Oil, Red Wine Vinegar, Grana Padano) $7",
+        "Marinated Olives (Coriander, Citrus, Calabrian Chili) $7",
+        "Polpette (Beef & Pork Meatballs, Pomodoro, Grana Padano) $8",
+        "Parmigiano Reggiano e Balsamico $10",
+        "Gorgonzola e Miele $10",
+        "Bocconcino E Frutta $10",
+        "Carrozza (Mozzarella di Bufala, Trapanese Pesto) $10",
+        "Prosciutto di Parma $12",
+        "Salame Finocchiona $12",
+        "Coppa $12",
+        "Cacio e Pepe (Pecorino Romano, Black Pepper) $15",
+        "Insalata Mista $18",
+        "Calamari Fritti $19",
+        "Burrata $21",
+        "Bucatini all'Amatriciana $22",
+        "Roman Pasta Flight $45"
+      ],
+      "drink_deals": [
+        "Peroni $8",
+        "Scarpetta Frico Bianco (wine) $9",
+        "Scarpetta Frico Rosso (wine) $9",
+        "Scarpetta Frico Rosato (wine) $9",
+        "Venetian Spritz $9",
+        "Elena Spritz $14",
+        "Penicillin $14",
+        "Jungle Bird $14",
+        "Late For The Train $14",
+        "Old Fashioned $16"
+      ]
+    },
+    "notes": "Northern Italian eatery located just off the Union Station train platform. MICHELIN Bib Gourmand (2023 and 2024). Happy hour is bar and lounge area only. Dinner menu available starting at 5 PM for happy hour reservations (2-hour dining window for parties up to 4)."
+  },
+  {
+    "id": "cholon-modern-asian",
+    "name": "ChoLon Modern Asian",
+    "address": "1555 Blake St, Ste 101, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.cholonconcepts.com/locations/cholon-downtown/",
+    "source": "cholonconcepts.com happy hour menu page, milehighhappyhour.com, 5280.com",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
+      "food_deals": [
+        "French Onion Soup Dumplings (2) $6",
+        "General Cho's Soup Dumplings (2) $6",
+        "Kaya Toast $6",
+        "Jumbo Shrimp Satay (2) $6",
+        "Chiang Mai Chicken Wontons (2) $6",
+        "Crispy Chicken Spring Rolls (2) $6",
+        "Korean Hot Fried Chicken Slider (1) $6",
+        "Pork Potstickers (2) $6",
+        "Cha Ca La Shrimp Cake Bao Bun (1) $6",
+        "Pork Belly or Tofu Bao Bun (1) $6",
+        "Scallion Pancake $6",
+        "French Fries $6",
+        "5 Spice Doughnuts (2) $6",
+        "Flights & Bites combo (3 dim sum/small bites + 1 sake flight) $33"
+      ],
+      "drink_deals": [
+        "Lon's Lager $5",
+        "Bushido Sake $6",
+        "House Wine $7",
+        "Well Drinks $7",
+        "Sparkling Brut Rose $8 glass / $38 bottle",
+        "Prosecco $8 glass / $38 bottle",
+        "ChoLon Cocktails $3 off",
+        "Seasonal Cocktail (Bartender's Choice) $10"
+      ]
+    },
+    "notes": "Closed Sundays. Upscale Asian fusion on the corner of 16th St Mall and Blake St. Has been a LoDo staple for over a decade. Phone: (303) 353-5223. Rated 4.7 stars on OpenTable."
+  },
+  {
+    "id": "hayters-and-co",
+    "name": "Hayter's & Co",
+    "address": "1920 Blake St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.haytersandco.com/",
+    "source": "milehighhappyhour.com/lower-downtown/hayters-co/, haytersandco.com specials page",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "start_time": "11:00 AM",
+      "end_time": "6:00 PM",
+      "food_deals": [
+        "Monday: $9.99 all-you-can-eat wings (7pm-close)"
+      ],
+      "drink_deals": [
+        "$3 Drafts",
+        "$3 Wells",
+        "$4 Hayterade (Svedka citron, Svedka raspberry, lemonade, cranberry splash)",
+        "Tuesday: $3 Calls",
+        "Wednesday: $5 specialty Colorado vodka, $4 Fireball (7pm-close)",
+        "Thursday: Ladies night 9pm-close with complimentary wells",
+        "Friday: $5 Fireball, $5 Rum Chata",
+        "Saturday: $5 Fireball, $5 Rum Chata",
+        "Sunday: $3 Jager, $3 Jameson, $3 Tuaca, $3 Rumple Minze"
+      ]
+    },
+    "notes": "Sports bar across from Coors Field. $10 all-you-can-drink Coors Light before Rockies home games. Features beer pong, skeeball, Jenga, multiple TVs. Denver home bar for Chicago Bears, Montana State Bobcats, Montana Grizzlies, Ohio State Buckeyes. Hours: Mon-Wed 4pm-1:45am, Thu 12pm-1:45am, Fri-Sun 11am-1:45am."
+  },
+  {
+    "id": "thirsty-lion",
+    "name": "Thirsty Lion Gastropub & Grill",
+    "address": "1605 Wynkoop St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.thirstylionrestaurant.com/",
+    "source": "thirstylionrestaurant.com happy hour page, milehighhappyhour.com",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "start_time": "3:00 PM",
+      "end_time": "6:00 PM",
+      "food_deals": [
+        "Creamy Queso Dip $8.95",
+        "Garlic Sesame Edamame $8.95",
+        "Fresh Hand Cut Fries $8.95",
+        "Beer Battered Cheese Curds $8.95",
+        "Artichoke Spinach Dip $9.95",
+        "Spicy Fried Cauliflower $9.95",
+        "Hand-Breaded Chicken Tenderloins $9.95",
+        "California Roll $9.95",
+        "Spicy Tuna Roll $9.95",
+        "Ahi Poke Stack $10.95",
+        "Pear & Prosciutto Flatbread $10.95",
+        "Spicy Fried Chicken Sliders $10.95",
+        "Grilled Burger Sliders $10.95",
+        "Grilled Salmon Cakes $10.95"
+      ],
+      "drink_deals": [
+        "Lion Lemonade $8.95",
+        "Ranch Water $8.95",
+        "Hibiscus Vodka Breeze $8.95",
+        "Moscow Mule $9.95",
+        "Thirsty Lion Margarita $9.95",
+        "Spicy Mango Margarita $9.95",
+        "Classic Mojito $9.95",
+        "Cucumber Rosemary Gin & Tonic $9.95",
+        "Blood Orange Margarita $9.95",
+        "Bourbon Old Fashioned $9.95",
+        "Raspberry Drop Martini $9.95"
+      ]
+    },
+    "notes": "Located in Union Station. Also has late night happy hour Thu-Sat 9pm-close. Weekend brunch Sat-Sun 10am-2pm with $25 mimosa bottles. Prices noted on their website as potentially varying at the Denver location. Rated 4.5 stars on OpenTable."
+  },
+  {
+    "id": "hopdoddy-burger-bar",
+    "name": "Hopdoddy Burger Bar",
+    "address": "1747 Wynkoop St, Denver, CO 80202",
+    "neighborhood": "LoDo",
+    "website": "https://www.hopdoddy.com/locations/unionstation",
+    "source": "hopdoddy.com, milehighhappyhour.com, do303.com",
+    "happy_hour": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "start_time": "3:00 PM",
+      "end_time": "6:00 PM",
+      "food_deals": "unknown",
+      "drink_deals": [
+        "1/2 off all cocktails",
+        "1/2 off all beer",
+        "1/2 off all wine"
+      ]
+    },
+    "notes": "Located between Union Station and Coors Field. Happy hour is Mon-Thu only, 3-6 PM with half off all cocktails, beer, and wine. Known for craft burgers and an impressive cocktail/wine program. Hours: Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 11am-10pm. Phone: (303) 446-2337. Could not fetch their happy hour page directly for food deal specifics."
+  }
+]
